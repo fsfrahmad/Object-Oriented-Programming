@@ -1,0 +1,4 @@
+A123,Lahore-to-Sukkur,Rs.1800,8:00a.m.
+B123,Lahore-to-Faisalabad,Rs.500,8:00a.m.
+C123,Peshawar-to-Multan,Rs.1800,12:00p.m.
+D123,Rawalpindi-to-Lahore,Rs.800,1:00p.m.

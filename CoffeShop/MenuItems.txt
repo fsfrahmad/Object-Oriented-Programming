@@ -1,0 +1,14 @@
+orange juice,Drinks,60
+lemonade,Drinks,50
+cranberry juice,Drinks,100
+pineapple juice,Drinks,100
+lemon iced tea,Drinks,120
+vanilla chai latte,Drinks,150
+hot chocolate,Drinks,140
+iced coffee,Drinks,140
+tunna sandwitch,Food,200
+ham and cheese sandwitch,Food,300
+egg sandwitch,Food,200
+steak,Food,900
+hamburger,Food,600
+cinammon roll,Food,150

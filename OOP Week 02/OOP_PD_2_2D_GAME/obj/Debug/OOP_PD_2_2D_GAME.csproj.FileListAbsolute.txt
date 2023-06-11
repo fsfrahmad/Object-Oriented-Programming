@@ -1,0 +1,10 @@
+E:\OOPs\OOP Week 02\OOP_PD_2_2D_GAME\bin\Debug\OOP_PD_2_2D_GAME.exe.config
+E:\OOPs\OOP Week 02\OOP_PD_2_2D_GAME\bin\Debug\OOP_PD_2_2D_GAME.exe
+E:\OOPs\OOP Week 02\OOP_PD_2_2D_GAME\bin\Debug\OOP_PD_2_2D_GAME.pdb
+E:\OOPs\OOP Week 02\OOP_PD_2_2D_GAME\obj\Debug\OOP_PD_2_2D_GAME.csproj.AssemblyReference.cache
+E:\OOPs\OOP Week 02\OOP_PD_2_2D_GAME\obj\Debug\OOP_PD_2_2D_GAME.csproj.CoreCompileInputs.cache
+E:\OOPs\OOP Week 02\OOP_PD_2_2D_GAME\obj\Debug\OOP_PD_2_2D_GAME.exe
+E:\OOPs\OOP Week 02\OOP_PD_2_2D_GAME\obj\Debug\OOP_PD_2_2D_GAME.pdb
+E:\OOPs\OOP Week 02\OOP_PD_2_2D_GAME\bin\Debug\EZInput.dll
+E:\OOPs\OOP Week 02\OOP_PD_2_2D_GAME\bin\Debug\EZInput.xml
+E:\OOPs\OOP Week 02\OOP_PD_2_2D_GAME\obj\Debug\OOP_PD_2_2D_GAME.csproj.CopyComplete

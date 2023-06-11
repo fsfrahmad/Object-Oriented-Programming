@@ -1,0 +1,14 @@
+E:\OOPs\OOP_LAB_05\bin\Debug\OOP_LAB_05.exe.config
+E:\OOPs\OOP_LAB_05\bin\Debug\OOP_LAB_05.exe
+E:\OOPs\OOP_LAB_05\bin\Debug\OOP_LAB_05.pdb
+E:\OOPs\OOP_LAB_05\obj\Debug\OOP_LAB_05.csproj.AssemblyReference.cache
+E:\OOPs\OOP_LAB_05\obj\Debug\OOP_LAB_05.csproj.CoreCompileInputs.cache
+E:\OOPs\OOP_LAB_05\obj\Debug\OOP_LAB_05.exe
+E:\OOPs\OOP_LAB_05\obj\Debug\OOP_LAB_05.pdb
+E:\OOPs\OOP_Lab_6\bin\Debug\OOP_LAB_05.exe.config
+E:\OOPs\OOP_Lab_6\bin\Debug\OOP_LAB_05.exe
+E:\OOPs\OOP_Lab_6\bin\Debug\OOP_LAB_05.pdb
+E:\OOPs\OOP_Lab_6\obj\Debug\OOP_LAB_05.csproj.AssemblyReference.cache
+E:\OOPs\OOP_Lab_6\obj\Debug\OOP_LAB_05.csproj.CoreCompileInputs.cache
+E:\OOPs\OOP_Lab_6\obj\Debug\OOP_LAB_05.exe
+E:\OOPs\OOP_Lab_6\obj\Debug\OOP_LAB_05.pdb

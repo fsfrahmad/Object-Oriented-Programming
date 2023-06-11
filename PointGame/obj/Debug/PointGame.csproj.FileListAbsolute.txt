@@ -1,0 +1,10 @@
+E:\OOPs\PointGame\bin\Debug\PointGame.exe.config
+E:\OOPs\PointGame\bin\Debug\PointGame.exe
+E:\OOPs\PointGame\bin\Debug\PointGame.pdb
+E:\OOPs\PointGame\bin\Debug\EZInput.dll
+E:\OOPs\PointGame\bin\Debug\EZInput.xml
+E:\OOPs\PointGame\obj\Debug\PointGame.csproj.AssemblyReference.cache
+E:\OOPs\PointGame\obj\Debug\PointGame.csproj.CoreCompileInputs.cache
+E:\OOPs\PointGame\obj\Debug\PointGame.csproj.CopyComplete
+E:\OOPs\PointGame\obj\Debug\PointGame.exe
+E:\OOPs\PointGame\obj\Debug\PointGame.pdb

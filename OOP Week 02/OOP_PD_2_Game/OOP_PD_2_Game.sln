@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_PD_2_Game", "C:\Users\G L T\source\repos\OOP_PD_2_Game\OOP_PD_2_Game.csproj", "{034CCA7B-D0B9-42CB-9B99-4F9FB8EDD7ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{034CCA7B-D0B9-42CB-9B99-4F9FB8EDD7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034CCA7B-D0B9-42CB-9B99-4F9FB8EDD7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034CCA7B-D0B9-42CB-9B99-4F9FB8EDD7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034CCA7B-D0B9-42CB-9B99-4F9FB8EDD7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D44A7B9-B51B-41BE-AA50-B1C831E13A8C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+E:\OOPs\CoffeShop\bin\Debug\CoffeShop.exe.config
+E:\OOPs\CoffeShop\bin\Debug\CoffeShop.exe
+E:\OOPs\CoffeShop\bin\Debug\CoffeShop.pdb
+E:\OOPs\CoffeShop\obj\Debug\CoffeShop.csproj.AssemblyReference.cache
+E:\OOPs\CoffeShop\obj\Debug\CoffeShop.csproj.CoreCompileInputs.cache
+E:\OOPs\CoffeShop\obj\Debug\CoffeShop.exe
+E:\OOPs\CoffeShop\obj\Debug\CoffeShop.pdb

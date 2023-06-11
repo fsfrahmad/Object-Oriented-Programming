@@ -1,0 +1,10 @@
+E:\OOPs\Lab01\OOP_PD_1_Game\bin\Debug\OOP_PD_1_Game.exe.config
+E:\OOPs\Lab01\OOP_PD_1_Game\bin\Debug\OOP_PD_1_Game.exe
+E:\OOPs\Lab01\OOP_PD_1_Game\bin\Debug\OOP_PD_1_Game.pdb
+E:\OOPs\Lab01\OOP_PD_1_Game\bin\Debug\EZInput.dll
+E:\OOPs\Lab01\OOP_PD_1_Game\bin\Debug\EZInput.xml
+E:\OOPs\Lab01\OOP_PD_1_Game\obj\Debug\OOP_PD_1_Game.csproj.AssemblyReference.cache
+E:\OOPs\Lab01\OOP_PD_1_Game\obj\Debug\OOP_PD_1_Game.csproj.CoreCompileInputs.cache
+E:\OOPs\Lab01\OOP_PD_1_Game\obj\Debug\OOP_PD_1_Game.csproj.CopyComplete
+E:\OOPs\Lab01\OOP_PD_1_Game\obj\Debug\OOP_PD_1_Game.exe
+E:\OOPs\Lab01\OOP_PD_1_Game\obj\Debug\OOP_PD_1_Game.pdb

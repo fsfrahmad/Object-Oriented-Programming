@@ -1,0 +1,2 @@
+E:\OOPs\Quiz2\obj\Debug\Quiz2.csproj.AssemblyReference.cache
+E:\OOPs\Quiz2\obj\Debug\Quiz2.csproj.CoreCompileInputs.cache

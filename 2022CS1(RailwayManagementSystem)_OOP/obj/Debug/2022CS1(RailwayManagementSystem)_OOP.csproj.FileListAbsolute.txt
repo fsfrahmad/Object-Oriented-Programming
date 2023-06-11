@@ -1,0 +1,7 @@
+E:\OOPs\2022CS1(RailwayManagementSystem)_OOP\bin\Debug\2022CS1(RailwayManagementSystem)_OOP.exe.config
+E:\OOPs\2022CS1(RailwayManagementSystem)_OOP\bin\Debug\2022CS1(RailwayManagementSystem)_OOP.exe
+E:\OOPs\2022CS1(RailwayManagementSystem)_OOP\bin\Debug\2022CS1(RailwayManagementSystem)_OOP.pdb
+E:\OOPs\2022CS1(RailwayManagementSystem)_OOP\obj\Debug\2022CS1(RailwayManagementSystem)_OOP.csproj.AssemblyReference.cache
+E:\OOPs\2022CS1(RailwayManagementSystem)_OOP\obj\Debug\2022CS1(RailwayManagementSystem)_OOP.csproj.CoreCompileInputs.cache
+E:\OOPs\2022CS1(RailwayManagementSystem)_OOP\obj\Debug\2022CS1(RailwayManagementSystem)_OOP.exe
+E:\OOPs\2022CS1(RailwayManagementSystem)_OOP\obj\Debug\2022CS1(RailwayManagementSystem)_OOP.pdb

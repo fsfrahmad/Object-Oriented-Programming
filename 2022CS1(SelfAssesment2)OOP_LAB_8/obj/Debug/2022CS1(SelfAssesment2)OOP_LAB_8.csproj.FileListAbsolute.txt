@@ -1,0 +1,7 @@
+E:\OOPs\2022CS1(SelfAssesment2)OOP_LAB_8\bin\Debug\2022CS1(SelfAssesment2)OOP_LAB_8.exe.config
+E:\OOPs\2022CS1(SelfAssesment2)OOP_LAB_8\bin\Debug\2022CS1(SelfAssesment2)OOP_LAB_8.exe
+E:\OOPs\2022CS1(SelfAssesment2)OOP_LAB_8\bin\Debug\2022CS1(SelfAssesment2)OOP_LAB_8.pdb
+E:\OOPs\2022CS1(SelfAssesment2)OOP_LAB_8\obj\Debug\2022CS1(SelfAssesment2)OOP_LAB_8.csproj.AssemblyReference.cache
+E:\OOPs\2022CS1(SelfAssesment2)OOP_LAB_8\obj\Debug\2022CS1(SelfAssesment2)OOP_LAB_8.csproj.CoreCompileInputs.cache
+E:\OOPs\2022CS1(SelfAssesment2)OOP_LAB_8\obj\Debug\2022CS1(SelfAssesment2)OOP_LAB_8.exe
+E:\OOPs\2022CS1(SelfAssesment2)OOP_LAB_8\obj\Debug\2022CS1(SelfAssesment2)OOP_LAB_8.pdb
